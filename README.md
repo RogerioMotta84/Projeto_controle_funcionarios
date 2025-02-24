@@ -81,3 +81,5 @@ Execute o script Python:
 **Dicionários** para armazenar os dados dos funcionários
 
 **Estruturas** de controle para navegação no menu
+
+![Controle de Funcionários](Imagem/Controle%20Funcionários.png)
