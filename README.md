@@ -2,9 +2,9 @@
 
 Este projeto foi desenvolvido como parte da disciplina de **Lógica de Programação e Algoritmos** da **Faculdade Uninter**, desenvolvendo um software de controle de funcionários para uma empresa de RH. Este software deve ter o seguinte menu e opções:
 
-1. **Cadastrar Funcionário**
+1 - **Cadastrar Funcionário**
 
-2. **Consultar Funcionário(s)**
+2 - **Consultar Funcionário(s)**
 
 Consultar Todos os Funcionários
 
@@ -14,9 +14,9 @@ Consultar Funcionário(s) por Setor
 
 Retornar ao menu principal
 
-3. **Remover Funcionário**
+3 - **Remover Funcionário**
 
-4. **Sair**
+4 - **Sair**
 
 ## Requisitos do Projeto
 
